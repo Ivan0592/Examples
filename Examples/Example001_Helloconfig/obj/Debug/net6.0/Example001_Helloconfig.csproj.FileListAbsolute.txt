@@ -1,0 +1,15 @@
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\bin\Debug\net6.0\Example001_Helloconfig.exe
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\bin\Debug\net6.0\Example001_Helloconfig.deps.json
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\bin\Debug\net6.0\Example001_Helloconfig.runtimeconfig.json
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\bin\Debug\net6.0\Example001_Helloconfig.dll
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\bin\Debug\net6.0\Example001_Helloconfig.pdb
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.csproj.AssemblyReference.cache
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.AssemblyInfoInputs.cache
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.AssemblyInfo.cs
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.csproj.CoreCompileInputs.cache
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.dll
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\refint\Example001_Helloconfig.dll
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.pdb
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\Example001_Helloconfig.genruntimeconfig.cache
+C:\Users\irapt\Documents\Examples\Example001_Helloconfig\obj\Debug\net6.0\ref\Example001_Helloconfig.dll
